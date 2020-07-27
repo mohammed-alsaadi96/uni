@@ -1,0 +1,383 @@
+ .body{
+margin: 0px;
+padding: 0px;
+font-family: "Rubik", arial, sans-serif;
+
+
+ }
+ 
+ .space button{
+    
+    background-color: #11cbd7;
+    width: 136px;
+    height: 44px;
+    border: none;
+}
+
+.restbtn button{
+    
+    background-color: #11cbd7;
+    width: 136px;
+    height: 44px;
+    border: none;
+}
+
+ .header1{
+    
+    
+    height: 80px;
+}
+.logo-head{
+    text-decoration: none;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-weight: 400;
+    color: #000 ;
+    font-size: 1.25rem;
+    line-height: inherit;
+    white-space: nowrap;
+}
+.lt-header{
+    margin-top: 25px;
+    margin-left: 120px;
+}
+.md-header{
+    margin-top: 25px;
+    padding-left: 11px;
+}
+.md-header a{
+    
+    color: black;
+    
+    padding-right: 13px;
+    font-size: 15px;
+     
+}
+
+.rt-header{
+    margin-top: 25px;
+    margin-left: 214px;
+    
+}
+
+.rt-header a{
+    font-family: "Rubik", arial, sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #11cbd7;
+    
+}
+
+.rt-header span{
+    font-size: 20px;
+}
+
+
+.bg-img{
+    
+     height:812px; 
+     width:100% ;
+    
+    background-image:url("bigimg.jpg") ;
+    background-size: cover;
+    
+}
+
+.f-o-c{
+    padding-top: 400px;
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    font-family: "Rubik", arial, sans-serif;
+    font-weight: 300;
+    
+
+}
+
+.form-control,.submit {
+    margin-left:150px;
+}
+        /* .search{
+            background-color: white;
+            
+        }
+        .space{
+            padding: 0px;
+        } */
+        .courses50{
+            text-align: center;
+            color: #fff;
+    line-height: 3.5;
+        }
+        .regester{
+            margin-left: 624px;
+        }
+        .text-img{
+            padding-top: 92px;
+            text-align: left;
+        }
+        .left-text {
+            padding-left: 163px;
+            padding-right: 76px
+            
+        }
+        .left-text h3 {
+            font-size: 45px;
+            color: #11cbd7;
+    }
+        .left-text p{
+            font-weight: 300;
+            font-size: 16px;
+            line-height: 2;
+            color: gray;
+            padding-top: 15px;
+
+        }
+        .left-text button{
+            margin-top: 35px;
+            background-color: #11cbd7;
+            width: 136px;
+            height: 44px;
+            border: none;
+        }
+
+
+        
+        .img-size
+        {
+            text-align: center;
+        }
+        
+        .img-size img{
+            width: 35rem;
+            
+
+         
+        }
+        .l-h-p i{
+            font-size: 65px;
+            color: gray;
+        }
+        .l-h-p h3{
+            font-size: 21px;
+            padding-top: 20px;
+        }
+        .l-h-p p{
+            font-family: inherit;
+            font-size: 16px;
+            line-height: 2;
+            color: gray;
+        }
+        .l-h-p a{
+           color: #11cbd7;
+
+        }
+        .l-h-p{
+            padding-top: 80px;
+            padding-left: 98px;
+            padding-right: 80px;
+
+        }
+        
+        .edu-life{
+            margin-top: 58px;
+            padding-top: 86px;
+            
+            padding-left: 101px;
+            
+            background-color: rgb(212, 208, 208);
+
+        }
+        .edu-life img{
+            width:35rem; 
+        }
+        .edu-life h3{
+            font-size: 44px;
+            
+            
+            
+            color: #11cbd7;
+
+        }
+        .edu-life p{
+            font-family: inherit;
+    font-size: 16px;
+    line-height: 2;
+    color: gray;
+    padding-top: 10px;
+    
+    
+
+        }
+        .logo-behind-text i{
+            font-size: 65px;
+            color: gray;
+            padding-top: 10px;
+        }
+        .logo-behind-text span{
+            padding-bottom: 20px;
+        }
+
+/* -----------------popular cources------------------- */
+
+.popular-cources{
+    padding-top: 160px;
+    text-align: center;
+    background-color:rgb(212, 208, 208); ;
+}
+.popcor{
+    padding-right: 115px;
+    padding-left: 96px;
+}
+.popcor button{
+    font-size: 17px;
+    background-color: #11cbd7;
+    border-radius: 4px;
+    border: 0px;
+    text-align: center;
+    line-height: 1.5;
+    color: white;
+    width: 150px;
+    height: 42px;
+}
+.advance{
+    padding-top: 160px;
+    /* padding-right: 68px; */
+    /* margin-right: 20px; */
+    background-color: rgb(212, 208, 208);
+    width: 1687px;
+
+    text-align: left;
+    padding-left: 0px;
+    margin-right: 0px;
+    
+    
+    
+    
+}
+.advance div{
+    margin-left:20px;
+    margin-right: 0px;
+    
+    
+    
+    
+}
+.pad
+{
+  padding-left: 0px;
+  margin-right: 0px;
+  
+       
+}
+
+.pad img{
+    width: 26.4rem;
+
+    
+}
+.pad h3{
+    padding-top: 23px;
+    font-size: 27px;
+    font-weight: 300;
+    color: black;
+    padding-left: 20px;
+    
+
+}
+.pad p{
+    padding-left: 20px;
+}
+.pad label{
+    color: #11cbd7;
+    padding-top: 20px;
+    font-weight: 450;
+    padding-left: 20px;
+    
+
+}
+.pad span{
+    text-decoration: line-through;
+    padding-left: 194px;
+    padding-right: 16px;
+    color: gray;
+}
+.pad button{
+    color: white;
+    background-color: #11cbd7;
+    border: 0px;
+    width: 56px;
+    height: 27px;
+    text-align: center;
+    border-radius: 4px;
+    padding-bottom: 20px;
+    padding-right: 0px;
+}
+.cen
+{
+    text-align: center;
+}
+.arrow {
+    
+
+    padding-top: 73px;
+    
+    padding-bottom: 82px;
+    font-size: 36px;
+    color: gray;
+    background-color: rgb(212, 208, 208);
+    text-align: center;
+}
+
+.teachers{
+    text-align: center;
+    padding-top: 110px;
+}
+.teachers h3{
+    font-size: 44px;
+    color: #11cbd7;
+
+
+}
+.teachers p{
+    padding-top: 4px;
+}
+
+.green-cont {
+    padding-top: 58px;
+    margin-left: 20px;
+    padding-bottom: 118px;
+}
+
+.green-cont div{
+    margin-left: 27px;
+}
+
+.greenbg{
+    background-image: url("green.jpg");
+    width: 360px;
+    height:426px ;
+    padding-top: 350px;
+    color: white;
+
+}
+
+
+ /* .green-cont img{
+    width: 22rem;
+    
+}  */
+
+.blog{
+    background-color:rgb(212, 208, 208) ;
+}
+
+
+
+
+
+        
+        
+
+
+
